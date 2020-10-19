@@ -32,7 +32,11 @@ ANB will be controlled entirely by the owners of ANB in the future. Although, th
 ANB will be distributed entirely in the spirit of community autonomy, with no tokens allocated to the founding team, no upfront payments, no founder shares, and no VC benefits.
 
 ANB 1500
+
 CLAM-TRX 3500
+
 ANB-TRX 10000
+
 EAB-TRX 2000
+
 Reward pool is halved every 7 days,After the initial distribution pool is launched, ANB will stimulate the second wave distribution through the ANB/TRX Justswap pool. This pool will allow Justswap provide the liquidity and necessary inputs for the repurchase based on the TWAP price predictor.
